@@ -1,0 +1,25 @@
+.header{
+    height: 100px;
+}
+body{
+    background: rgba(0, 0 , 0, 0.5);
+}
+h1, h3{
+    margin: 5px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.ui-widget-content{
+    display: inline-block;
+    padding: 10px;
+
+}
+#date-picker{
+    width: 100%;
+}
+#droppable{
+    width: 100%;
+    height: 300px;
+}
